@@ -1,0 +1,3 @@
+#Ignore txt files that list commits
+list-commits.txt
+list-commits-*.txt
